@@ -91,22 +91,4 @@ To design a system that:
   - Flow status  
   - Alert notifications  
 
----
-
-##  Applications
-- Hospital wards  
-- ICU and emergency rooms  
-- Dialysis centers  
-- Elderly care centers  
-- Home healthcare systems  
-
----
-
-##  Future Scope
-- Fully wireless rechargeable device  
-- Nurse call system integration  
-- Multi-patient dashboard in Healink  
-- AI-based infusion prediction  
-- Hospital inventory integration  
-
 
